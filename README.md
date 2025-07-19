@@ -3,7 +3,7 @@
 <p align="center">
   <img src="./image.png" alt="CSphere Preview" width="700"/>
 </p>
-A full-stack **Contact Form Web Application** built using the **MERN stack (MongoDB, Express.js, React, Node.js)** with **Email Integration**. Only registered users can submit the contact form. Contact data is sent directly to the admin's email using **NodeMailer**.
+A full-stack Contact Form Web Application built using the MERN stack (MongoDB, Express.js, React, Node.js) with Email Integration. Only registered users can submit the contact form. Contact data is sent directly to the admin's email using NodeMailer.
 
 ---
 
