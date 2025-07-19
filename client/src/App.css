@@ -1,0 +1,74 @@
+/* Header styling */
+
+.headerDiv {
+  height: 60px;
+  width: 100%;
+  color: snow;
+  background-color: purple;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.headerDiv h2 {
+  font-size: 2rem;
+}
+
+/* Homepage styling */
+
+.homeDiv {
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+  color: black;
+}
+
+.homeDiv h1 {
+  font-size: 3rem;
+  text-shadow: 7px 0px 10px red;
+  font-weight: bold;
+  color: snow;
+}
+
+.ragisterPage {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.ragisterPage form {
+  border-top: 2px solid purple;
+  padding: 10px;
+}
+
+.contactPage {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.contactPage1 {
+  width: 50%;
+  display: flex;
+  align-items: center;
+  align-content: center;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.contactPage1 form {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  border-top: 2px solid purple;
+  padding: 10px;
+}
